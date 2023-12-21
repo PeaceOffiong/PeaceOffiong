@@ -9,7 +9,6 @@ I have built projects throughout my developer journey and I'm passionately curio
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 🌱 I’m currently learning JavaScript, Reactjs, Vue and Typescript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1NVESyvdvCFbKspj72WGiJpYeYW5fTXDVBQmijVcBUoU/edit?usp=share_link) and contact me by emailing peaceyben@gmail.com.
