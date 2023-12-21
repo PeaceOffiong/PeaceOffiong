@@ -4,12 +4,11 @@
 
 Hi, I am Peace Ben. I'm a passionate Front-end developer, with experience in creating web interfaces using modern web technologies. I am a graduate of Altschool class of 2022, where I developed my technical skills and learnt how to solve technical probelms using front-end technologies, 
 I also completed the HNG-x Zuri Training, where I was able to learn to push quality codes at tedious deadlines.
-I have built projects throughout my developer journey and I'm passionately curious for more knowledge, I look forward to contributing to open source to advance my knowledge and skills as well share knowledge. 
+I have built projects throughout my developer journey and I'm passionately curious for more knowledge, I look forward to building more projects and developing my skills. 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 💡 Fun fact: I'm a current graduated of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, Vue and Typescript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
